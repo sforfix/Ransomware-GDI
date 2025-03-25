@@ -1,0 +1,10 @@
+C:\Users\abby\source\repos1\Menu1\Menu1\bin\Debug\Menu1.exe.config
+C:\Users\abby\source\repos1\Menu1\Menu1\bin\Debug\Menu1.exe
+C:\Users\abby\source\repos1\Menu1\Menu1\bin\Debug\Menu1.pdb
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.csproj.AssemblyReference.cache
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.Properties.Resources.resources
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.csproj.GenerateResource.cache
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.csproj.CoreCompileInputs.cache
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.exe
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\Menu1.pdb
+C:\Users\abby\source\repos1\Menu1\Menu1\obj\Debug\GDI.Form3.resources
